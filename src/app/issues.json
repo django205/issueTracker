@@ -1,0 +1,48 @@
+{
+  "issues": [
+    {
+      "id": 1,
+      "description": "Outlook is",
+      "severity": "High",
+      "status": "Closed",
+      "createdDate": "2018-09-28",
+      "resolvedDate": "2018-09-28"
+    },
+    {
+      "id": 3,
+      "description": "LAN configuration issue",
+      "severity": "Critical",
+      "status": "Closed",
+      "createdDate": "2018-09-28",
+      "resolvedDate": "2018-09-28",
+      "selected": false
+    },
+    {
+      "id": 12,
+      "description": "Skype issue",
+      "severity": "Medium",
+      "status": "Open",
+      "createdDate": "2018-09-04",
+      "resolvedDate": "2018-09-13",
+      "selected": false
+    },
+    {
+      "id": 13,
+      "description": "new issue 3",
+      "severity": "Medium",
+      "status": "Open",
+      "createdDate": "2018-09-12",
+      "resolvedDate": "2018-09-29",
+      "selected": false
+    },
+    {
+      "id": 14,
+      "description": "new issue 5",
+      "severity": "Low",
+      "status": "Closed",
+      "createdDate": "2018-09-12",
+      "resolvedDate": "2018-09-28",
+      "selected": false
+    }
+  ]
+}
